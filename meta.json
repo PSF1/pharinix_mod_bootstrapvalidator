@@ -1,0 +1,27 @@
+{
+    "meta":{
+        "name":"Bootstrap form validator",
+        "slugname":"pharinix_mod_bootstrapvalidator",
+        "version": "0.5.2",
+        "autor": "(c) 2013 - 2014 Nguyen Huu Phuoc, Copyright (c), 2015, Pedro Pelaez (aaaaa976@gmail.com)",
+        "website": "https://github.com/PSF1/pharinix_mod_bootstrapvalidator",
+        "description": "The best jQuery plugin to validate form fields. Designed to use with Bootstrap 3.",
+        "licence": "MIT"
+    },
+    "configuration": {},
+    "booting": [],
+    "bin_paths": [
+        "bin/"
+    ],
+    "nodetypes": {},
+    "sql": {},
+    "install": [],
+    "uninstall": [],
+    "requirements": {
+        "pharinix": "1.09.x"
+    },
+    "platforms":[
+        "win",
+        "linux"
+    ]
+}
